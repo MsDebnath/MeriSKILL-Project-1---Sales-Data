@@ -1,4 +1,4 @@
-# MeriSKILL-Project-1---Sales-Data
+# MeriSKILL-Project-1_Sales-Data
 
 ## Introduction
 In the realm of modern business, leveraging data analytics has become pivotal for informed decision-making and staying competitive in dynamic markets. Sales data, in particular, harbors a goldmine of insights that can guide strategic maneuvers and bolster revenue streams. With the exponential growth of electronic commerce, the volume and complexity of sales data have surged, necessitating sophisticated analytical approaches to extract actionable intelligence.
