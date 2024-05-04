@@ -8,13 +8,21 @@ The purpose of this project is to conduct a comprehensive analysis of Electronic
 
 ## The Dataset
 The Sales dataset has 10 columns
-•	ORDER ID 
-•	PRODUCT 
-•	QUANTITY ORDERED 
-•	PRICE EACH 
-•	ORDER DATE 
-•	PURCHASE ADDRESS 
-•	MONTH 
-•	SALES 
-•	CITY 
-•	HOUR 
+
+* ORDER ID
+* PRODUCT
+* QUANTITY ORDERED
+* PRICE EACH
+* ORDER DATE
+* PURCHASE ADDRESS
+* MONTH
+* SALES
+* CITY
+* HOUR
+
+## Visualization
+![Screenshot 2024-04-27 135750](https://github.com/MsDebnath/MeriSKILL-Project-1---Sales-Data/assets/134738648/6ab510f2-ddc3-4f23-819c-c5f9c8b78762)
+
+
+
+
